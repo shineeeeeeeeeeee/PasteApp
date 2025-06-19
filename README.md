@@ -1,6 +1,6 @@
 Here’s a complete rewrite of the `README.md` file for your React + Vite project with Tailwind CSS installation and details about the packages used:
 
-# Check out the App here: https://paste-app-ten-gilt.vercel.app/
+Check out the App here: https://paste-app-ten-gilt.vercel.app/
 ---
 
 # React + Vite + TailwindCSS Template
